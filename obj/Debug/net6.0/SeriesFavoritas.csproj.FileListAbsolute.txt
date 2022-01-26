@@ -1,0 +1,15 @@
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/bin/Debug/net6.0/SeriesFavoritas
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/bin/Debug/net6.0/SeriesFavoritas.deps.json
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/bin/Debug/net6.0/SeriesFavoritas.runtimeconfig.json
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/bin/Debug/net6.0/SeriesFavoritas.dll
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/bin/Debug/net6.0/ref/SeriesFavoritas.dll
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/bin/Debug/net6.0/SeriesFavoritas.pdb
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/obj/Debug/net6.0/SeriesFavoritas.csproj.AssemblyReference.cache
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/obj/Debug/net6.0/SeriesFavoritas.GeneratedMSBuildEditorConfig.editorconfig
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/obj/Debug/net6.0/SeriesFavoritas.AssemblyInfoInputs.cache
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/obj/Debug/net6.0/SeriesFavoritas.AssemblyInfo.cs
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/obj/Debug/net6.0/SeriesFavoritas.csproj.CoreCompileInputs.cache
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/obj/Debug/net6.0/SeriesFavoritas.dll
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/obj/Debug/net6.0/ref/SeriesFavoritas.dll
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/obj/Debug/net6.0/SeriesFavoritas.pdb
+/home/carol/Visual Studio/SeriesFavoritas/SeriesFavoritas/obj/Debug/net6.0/SeriesFavoritas.genruntimeconfig.cache
